@@ -1,0 +1,2 @@
+# Self Introduction
+print("My name is Vedant Chandrakant Bangar and i am 20 year old , My father name is Chandrakant and he is a farmer , my mother name is Vaishali and she is housewife , i have one sister she studying in 12th std, and i am studying goverment polytechnic thane in third yaer for computer enggnering , my hobbies are playing a cricekt,books reading. Thank you so much")
